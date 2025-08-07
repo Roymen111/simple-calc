@@ -1,0 +1,25 @@
+📘 README – Basic Calculator Program (Python)
+🧮 Description
+This is a simple Python-based calculator program that performs basic arithmetic operations:
+
+Addition (+)
+
+Subtraction (-)
+
+Multiplication (*)
+
+Division (/)
+
+The program asks the user to input two numbers and a mathematical operator, then displays the result.
+
+💻 How It Works
+The user is prompted to enter:
+
+The first number
+
+The second number
+
+The operation they want to perform (+, -, *, /)
+
+The program performs the operation and prints the result in the format:
+num1 operator num2 = result
